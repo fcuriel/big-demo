@@ -1,3 +1,2 @@
-# big-demo
-
-Very simple app for DevOps big demo.
+# kubernetes-testing
+Testing scripts for kubernetes
