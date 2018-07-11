@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Demo MF", "Demo MF.shproj", "{D4D6494D-236E-48DF-9D3B-4A062D6B93EA}"
+EndProject
+Global
+	GlobalSection(Borland Source Code Provider) = preSolution
+		IsAssociated = True
+	EndGlobalSection
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		Demo MF.projitems*{d4d6494d-236e-48df-9d3b-4a062d6b93ea}*SharedItemsImports = 13
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		Association = ; :1-2005 R2; Demo MF.shproj; ; ; Demo MF.sln; 10.0.0.6:49201; Big Demo Project; CaasP; CaasP\; ; 
+		SolutionGuid = {368654BF-9887-42F3-9955-AEA98661B38C}
+	EndGlobalSection
+EndGlobal
